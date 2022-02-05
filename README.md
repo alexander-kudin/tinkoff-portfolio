@@ -6,6 +6,9 @@
 - C# CLI Students Management System [alexander-kudin/semester2-cli-students-management-system](https://github.com/alexander-kudin/semester2-cli-students-management-system)
 - C# CLI RSVP Management System [alexander-kudin/semester3-cli-RSVP-management-system](https://github.com/alexander-kudin/semester3-cli-RSVP-management-system)
 - JavaFX Contacts Management System [alexander-kudin/semester3-javafx-contacts-management-system](https://github.com/alexander-kudin/semester3-javafx-contacts-management-system)
+- Java Hash Table Game Inventory System [alexander-kudin/semester4-hash-table-game-inventory-system](https://github.com/alexander-kudin/semester4-hash-table-game-inventory-system)
+- Java Android Salary Calculator [alexander-kudin/semester5-java-mobile-salary-calculator](https://github.com/alexander-kudin/semester5-java-mobile-salary-calculator)
+- Spring MVC Recipes Web-app [alexander-kudin/semester5-spring-mvc-recipes-webapp](https://github.com/alexander-kudin/semester5-spring-mvc-recipes-webapp)
 <!-- POST-LIST:END -->
 
 ### Find me elsewhere 🌎
